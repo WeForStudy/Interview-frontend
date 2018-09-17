@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  display: flex;
+  height: 500px;
+}
+
+.left {
+  width: 100px;
+  background-color: lightgrey;
+}
+
+.middle {
+  flex: 1;
+  background-color: lightcyan;
+}
+
+.right {
+  width: 100px;
+  background-color: lightgrey;
+}

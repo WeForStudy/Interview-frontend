@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  height: 500px;
+}
+
+.left {
+  width: 100px;
+  height: 100%;
+  float: left;
+  background-color: lightgrey;
+}
+
+.middle {
+  float: left;
+  width: calc(100% - 200px);
+  height: 100%;
+  background-color: lightcyan;
+}
+
+.right {
+  float: left;
+  height: 100%;
+  width: 100px;
+  float: right;
+  background-color: lightgrey;
+}

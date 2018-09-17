@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header,footer { 
+  height: 50px;
+  background-color: beige;
+}
+.wrapper { 
+  position: relative;
+}
+.main { 
+  height: 200px; 
+  margin:0 100px;
+  background-color: aqua;
+}
+.left, .right{ 
+  width: 100px; 
+  height: 200px; 
+  position: absolute; 
+  top: 0;
+  background-color: lightgray;
+}
+.left{ left: 0;}
+.right{ right: 0;}

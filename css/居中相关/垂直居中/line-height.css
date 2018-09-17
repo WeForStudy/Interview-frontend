@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.father {
+  height: 500px;
+  line-height: 500px;
+  background-color: cadetblue;
+}
+.son {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  background-color: aqua;
+}

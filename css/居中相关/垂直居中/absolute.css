@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.father {
+  height: 500px;
+  position: relative;
+  background-color: cadetblue;
+}
+.son {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  left: 50%;
+  /* margin-left: -25px; */
+  transform: translateX(-50%);
+  background-color: aqua;
+}
