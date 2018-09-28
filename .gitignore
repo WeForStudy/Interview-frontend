@@ -1,3 +1,7 @@
 */node_modules
 */package-lock.json
 */package.json
+front-end/node/node_modules
+front-end/js/node_modules
+front-end/*/node_modules
+
