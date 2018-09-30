@@ -4,4 +4,4 @@
 front-end/node/node_modules
 front-end/js/node_modules
 front-end/*/node_modules
-
+front-end/js/http-request/koa/node_modules/
